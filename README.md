@@ -1,8 +1,8 @@
-# Stochastic Gradient Descent with Hyperbolic-Tangent Decay
+# Stochastic Gradient Descent with Hyperbolic-Tangent Decay on Classification
 
 This repository contains the code for HTD introduced in the following paper:
 
-[Stochastic Gradient Descent with Hyperbolic-Tangent Decay](https://arxiv.org/abs/1806.01593)
+[Stochastic Gradient Descent with Hyperbolic-Tangent Decay on Classification](https://arxiv.org/abs/1806.01593) (Accepted to WACV 2019)
 
 ## Contents
 1. [Introduction](#introduction)
@@ -73,10 +73,24 @@ The character * indicates results are directly obtained from the original paper.
 
 ![result_imagenet](https://user-images.githubusercontent.com/7837172/40903677-c16b20ce-680a-11e8-95ef-6cf674d3a585.png)
 
+
 ## Contact
 
 fm.bigballon at gmail.com  
 byshiue at gmail.com   
 
-**You can see more details & results in our [paper](https://arxiv.org/abs/1806.01593) if you want.**  
+If you use our code, please consider citing the technical report as follows:
+
+```
+@inproceedings{hsueh2019stochastic,
+  title={Stochastic Gradient Descent with Hyperbolic-Tangent Decay on Classification},
+  author={Hsueh, Bo-Yang and Li, Wei and Wu, I-Chen},
+  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={435--442},
+  year={2019},
+  organization={IEEE}
+}
+```
+
 Please feel free to contact us if you have any discussions, suggestions or questions!!
+
