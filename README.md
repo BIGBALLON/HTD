@@ -1,5 +1,8 @@
 # Stochastic Gradient Descent with Hyperbolic-Tangent Decay on Classification
 
+
+[![Paper](https://img.shields.io/badge/paper-arXiv.1806.01593-B3181B)](https://arxiv.org/abs/1806.01593)
+
 This repository contains the code for HTD introduced in the following paper:
 
 [Stochastic Gradient Descent with Hyperbolic-Tangent Decay on Classification](https://arxiv.org/abs/1806.01593) (Accepted to WACV 2019)
